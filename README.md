@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
-- 🔭 I’m currently working on roleplay stuff.
-- 👯 I’m looking to collaborate on stuff I started.
-- 📫 How to reach me: Mostly on https://gitlab.com/aloisdegouvello
-- 😄 Pronouns: he/his but I dont really care
+- 🔭 I’m currently working at [@D-EDGE](https://github.com/d-edge)
+- 👯 I’m looking to show that cooperation is the key to success.
+- 📫 How to reach me: Mostly at `myusername[0:2]@outlook.fr`
+- 🤖 Pronouns: he/his
